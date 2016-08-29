@@ -1,0 +1,66 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">us_portfolio</custom-type>
+		<custom-type translate="1">us_client</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">us_portfolio_category</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">us_post_preview_layout</custom-field>
+		<custom-field action="copy">us_titlebar_color</custom-field>
+		<custom-field action="copy">us_titlebar_content</custom-field>
+		<custom-field action="translate">us_titlebar_subtitle</custom-field>
+		<custom-field action="copy">us_header_remove</custom-field>
+		<custom-field action="copy">us_header_show</custom-field>
+		<custom-field action="copy">us_header_pos</custom-field>
+		<custom-field action="copy">us_header_bg</custom-field>
+		<custom-field action="copy">us_titlebar_size</custom-field>
+		<custom-field action="copy">us_sidebar</custom-field>
+		<custom-field action="copy">us_titlebar_overlay_color</custom-field>
+		<custom-field action="copy">us_titlebar_overlay_opacity</custom-field>
+		<custom-field action="copy">us_titlebar_image</custom-field>
+		<custom-field action="copy">us_titlebar_image_size</custom-field>
+		<custom-field action="copy">us_titlebar_image_parallax</custom-field>
+		<custom-field action="copy">us_footer_show_top</custom-field>
+		<custom-field action="copy">us_footer_show_bottom</custom-field>
+		<custom-field action="translate">us_client_url</custom-field>
+		<custom-field action="copy">us_client_new_tab</custom-field>
+		<custom-field action="copy">us_lightbox</custom-field>
+		<custom-field action="copy">us_custom_link_blank</custom-field>
+		<custom-field action="copy">us_tile_size</custom-field>
+		<custom-field action="translate">us_tile_description</custom-field>
+		<custom-field action="copy">us_tile_bg_color</custom-field>
+		<custom-field action="copy">us_tile_text_color</custom-field>
+		<custom-field action="copy">us_tile_additional_image</custom-field>
+		<custom-field action="translate">us_custom_link</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="usof_options_Zephyr">
+			<key name="logo_image"/>
+			<key name="logo_image_transparent"/>
+			<key name="logo_image_tablets"/>
+			<key name="logo_image_mobiles"/>
+			<key name="header_contacts_custom_text"/>
+			<key name="header_link_1_label"/>
+			<key name="header_link_1_url"/>
+			<key name="header_link_2_label"/>
+			<key name="header_link_2_url"/>
+			<key name="header_link_3_label"/>
+			<key name="header_link_3_url"/>
+			<key name="header_link_4_label"/>
+			<key name="header_link_4_url"/>
+			<key name="header_link_5_label"/>
+			<key name="header_link_5_url"/>
+			<key name="header_link_6_label"/>
+			<key name="header_link_6_url"/>
+			<key name="header_link_7_label"/>
+			<key name="header_link_7_url"/>
+			<key name="header_link_8_label"/>
+			<key name="header_link_8_url"/>
+			<key name="header_link_9_label"/>
+			<key name="header_link_9_url"/>
+			<key name="footer_copyright"/>
+		</key>
+	</admin-texts>
+</wpml-config>

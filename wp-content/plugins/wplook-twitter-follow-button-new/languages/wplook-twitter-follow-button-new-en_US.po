@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitter Follow Button v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-01-10 05:13:30+0000\n"
+"Last-Translator: valeriu <valeriu@tihai.md>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: wplook-twitter-follow-button-new.php:0
+#: wplook-twitter-follow-button-new.php:23
+#@ wplook-twitter-follow-button-new
+msgid "Twitter Follow Button"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: wplook-twitter-follow-button-new.php:0
+#@ wplook-twitter-follow-button-new
+msgid "https://stylishwp.com"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: wplook-twitter-follow-button-new.php:0
+#@ wplook-twitter-follow-button-new
+msgid "Add the Follow Button to your blog to increase engagement and create a lasting connection with your audience. After enabling this plugin visit <a href=\"widgets.php\">the widgets page</a>"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: wplook-twitter-follow-button-new.php:0
+#@ wplook-twitter-follow-button-new
+msgid "Valeriu Tihai"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wplook-twitter-follow-button-new.php:0
+#@ wplook-twitter-follow-button-new
+msgid "http://valeriu.tihai.ca"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wplook-twitter-follow-button-new.php:0
+#@ wplook-twitter-follow-button-new
+msgid "1.0.2"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:24
+#@ wplook-twitter-follow-button-new
+msgid "Add the Follow Button to your blog to increase engagement and create a lasting connection with your audience."
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:40
+#@ wplook-twitter-follow-button-new
+msgid "Follow Button"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:52
+#@ wplook-twitter-follow-button-new
+msgid "Title:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:59
+#@ wplook-twitter-follow-button-new
+msgid "Twitter Username:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:66
+#@ wplook-twitter-follow-button-new
+msgid "Followers count display:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:70
+#: wplook-twitter-follow-button-new.php:92
+#: wplook-twitter-follow-button-new.php:102
+#@ wplook-twitter-follow-button-new
+msgid "Yes"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:71
+#: wplook-twitter-follow-button-new.php:93
+#: wplook-twitter-follow-button-new.php:103
+#@ wplook-twitter-follow-button-new
+msgid "No"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:77
+#@ wplook-twitter-follow-button-new
+msgid "Button Size:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:81
+#@ wplook-twitter-follow-button-new
+msgid "Medium"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:82
+#@ wplook-twitter-follow-button-new
+msgid "Large"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:89
+#@ wplook-twitter-follow-button-new
+msgid "Show Screen Name:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:99
+#@ wplook-twitter-follow-button-new
+msgid "Opt-out of tailoring Twitter:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:108
+#@ wplook-twitter-follow-button-new
+msgid "Language:"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:112
+#@ wplook-twitter-follow-button-new
+msgid "English"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:113
+#@ wplook-twitter-follow-button-new
+msgid "French"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:114
+#@ wplook-twitter-follow-button-new
+msgid "German"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:115
+#@ wplook-twitter-follow-button-new
+msgid "Italian"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:116
+#@ wplook-twitter-follow-button-new
+msgid "Japanese"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:117
+#@ wplook-twitter-follow-button-new
+msgid "Korean"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:118
+#@ wplook-twitter-follow-button-new
+msgid "Russian"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:119
+#@ wplook-twitter-follow-button-new
+msgid "Spanish"
+msgstr ""
+
+#: wplook-twitter-follow-button-new.php:120
+#@ wplook-twitter-follow-button-new
+msgid "Turkish"
+msgstr ""
+

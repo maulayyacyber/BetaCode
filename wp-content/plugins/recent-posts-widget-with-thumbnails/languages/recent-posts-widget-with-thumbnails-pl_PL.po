@@ -1,0 +1,198 @@
+# Copyright (C) 2014
+# This file is distributed under the same license as the plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent Posts Widget With Thumbnails\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/recent-posts-widget-with-"
+"thumbnails\n"
+"POT-Creation-Date: 2016-04-10 12:11+0200\n"
+"PO-Revision-Date: 2016-04-10 12:11+0200\n"
+"Last-Translator: Martin Stehle <m.stehle@gmx.de>\n"
+"Language-Team: m.stehle@gmx.de\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/form.php:1
+msgid "Display Options"
+msgstr "Opcje wyświetlania"
+
+#: includes/form.php:10
+msgid "Open post links in new windows?"
+msgstr "Otworzyć łącza postów w nowych oknach?"
+
+#: includes/form.php:13
+msgid "Show posts in random order?"
+msgstr "Pokazać posty w losowej kolejności?"
+
+#: includes/form.php:16
+msgid "Do not list the current post?"
+msgstr "Nie wyświetlać obecnych wpisów?"
+
+#: includes/form.php:19
+msgid "Keep sticky posts on top of the list?"
+msgstr "Zatrzymać przyklejone posty na szczycie listy?"
+
+#: includes/form.php:22
+msgid "Do not show post title?"
+msgstr "Nie pokazywać tytułu postów?"
+
+#: includes/form.php:22
+msgid ""
+"Make sure you set a default thumbnail for posts without a thumbnail, "
+"otherwise there will be no link."
+msgstr ""
+"Upewnij się, że ustawiłeś domyślną miniaturę dla postów bez miniatury, "
+"inaczej nie będzie żadnego łącza."
+
+#: includes/form.php:24
+msgid "Maximum length of post title"
+msgstr "Maksymalna długość tytułu postu"
+
+#: includes/form.php:28
+msgid "Show post author?"
+msgstr "Pokazać autora wpisu?"
+
+#: includes/form.php:31
+msgid "Show post categories?"
+msgstr "Pokazać kategorie wpisów?"
+
+#: includes/form.php:34
+msgid "Show post date?"
+msgstr "Pokazać datę postu?"
+
+#: includes/form.php:37
+msgid "Show excerpt?"
+msgstr "Pokazać fragment?"
+
+#: includes/form.php:39
+msgid "Maximum length of excerpt"
+msgstr "Maksymalna długość fragmentu"
+
+#: includes/form.php:42
+msgid "Signs after excerpt"
+msgstr "Znaki po fragmencie"
+
+#: includes/form.php:46
+msgid "Show number of comments?"
+msgstr "Pokazać ilość komentarzy?"
+
+#: includes/form.php:49
+msgid "Show posts of selected categories only?"
+msgstr "Pokazać tylko posty z wybranych kategorii?"
+
+#: includes/form.php:51
+#, php-format
+msgid ""
+"Click on the categories with pressed CTRL key to select multiple categories. "
+"If %s was selected then other selections will be ignored."
+msgstr ""
+"Kliknij na kategorie z wciśniętym klawiszem CTRL aby zaznaczyć wiele "
+"kategorii. Jeżeli %s został zaznaczony to inne zaznaczenia będą zignorowane."
+
+#: includes/form.php:54
+msgid "Thumbnail Options"
+msgstr "Opcje miniatur"
+
+#: includes/form.php:57
+msgid "Display post featured image?"
+msgstr "Wyświetlić własny obrazek postu?"
+
+#: includes/form.php:59
+msgid "Size of thumbnail"
+msgstr "Rozmiar miniatury"
+
+#: includes/form.php:61
+msgid "Specified width and height"
+msgstr "Określona szerokość i wysokość"
+
+#: includes/form.php:71
+#, php-format
+msgid ""
+"If you use a specified size the following sizes will be taken, otherwise "
+"they will be ignored and the selected dimension as stored in %s will be used:"
+msgstr ""
+"Jeżeli użyjesz określonego rozmiaru, taki zostatnie użyty. W innym przypadku "
+"zostaną zignorowane i wybrane rozmiary zapisane w %s będą użyte:"
+
+#: includes/form.php:74
+msgid "Width of thumbnail"
+msgstr "Szerokość miniatury"
+
+#: includes/form.php:77
+msgid "Height of thumbnail"
+msgstr "Wysokość miniatury"
+
+#: includes/form.php:81
+msgid "Use aspect ratios of original images?"
+msgstr "Użyć proporcji obrazu z oryginalnych obrazów?"
+
+#: includes/form.php:81
+msgid ""
+"If checked the given width is used to determine the height of the thumbnail "
+"automatically. This option also supports responsive web design."
+msgstr ""
+"Jeżeli zaznaczone podana szerokość będzie użyta do określenia wysokości "
+"miniatury automatycznie. Ta opcja wspiera również Responsive Web Design. "
+
+#: includes/form.php:84
+msgid "Try to use the post's first image if post has no featured image?"
+msgstr ""
+"Spróbować użyć pierwszego obrazka postu jeżeli post nie posiada własnego "
+"obrazka?"
+
+#: includes/form.php:87
+msgid "Use first image only, ignore featured image?"
+msgstr "Użyć pierwszego obrazka, zignorować własny obrazek?"
+
+#: includes/form.php:90
+msgid "Use default thumbnail if no image could be determined?"
+msgstr "Użyć domyśłnej miniatury jeżeli nie można znaleźć innego obrazka?"
+
+#: includes/form.php:92
+msgid "URL of default thumbnail (start with http://)"
+msgstr "URL domyślnej miniatury (zacznij z http://)"
+
+#: includes/form.php:95
+msgid "Do you like the plugin?"
+msgstr "Czy podoba Ci się wtyczka?"
+
+#: includes/form.php:95
+msgid "Please rate it at wordpress.org!"
+msgstr "Proszę oceń na wordpress.org!"
+
+#: includes/form.php:96
+msgid "Do you need more options?"
+msgstr "Czy potrzebujesz więcej opcji?"
+
+#: includes/form.php:96
+msgid "Get Ultimate Post List Pro!"
+msgstr ""
+
+#: recent-posts-widget-with-thumbnails.php:86
+msgid "Recent Posts With Thumbnails"
+msgstr "Ostatnie posty z miniaturami"
+
+#: recent-posts-widget-with-thumbnails.php:87
+msgid ""
+"List of your site&#8217;s most recent posts, with clickable title and "
+"thumbnails."
+msgstr ""
+"Lista ostatnich wpisów twojej strony z klikalnymi tytułami i miniaturami."
+
+#: recent-posts-widget-with-thumbnails.php:224
+msgctxt "In {categories}"
+msgid "In"
+msgstr "W [ {categories} ]"
+
+#: recent-posts-widget-with-thumbnails.php:698
+msgid "Error on listing categories"
+msgstr "Błąd w wypisywaniu kategorii"
